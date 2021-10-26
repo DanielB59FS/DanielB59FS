@@ -3,4 +3,4 @@
 - 🌱 I’m currently a student at Full Sail University, Florida US, enrolled in the Game Development program.
 - 🌱 I’m Also a graduate B.Sc. Software Engineer of Shenkar College of Engineering and Design, Ramat Gan Israel, with a Cyber major.
 - 💞️ I’m looking for remote work in the Game development industry, and to collaborate on any interesting projects relevant to my expertise.
-- 📫 I will soon publish an official public email to contact me.
+- 📫 Contact email: bronco-seines-0z@icloud.com
