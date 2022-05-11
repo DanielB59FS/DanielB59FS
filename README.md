@@ -5,3 +5,8 @@
 - 💞️ I’m looking for remote work in the Game development industry, and to collaborate on any interesting projects relevant to my expertise.
 - :atom: Access to private repositories will be given per request.
 - 📫 Contact email: bronco-seines-0z@icloud.com
+
+- ⚠️ **note**:
+I highly recommend making contact with a legitimate looking email address, or via Linkedin chat to avoid emails going to spam folder.
+Emails reaching my spam folder will most likely not be replied or viewed for security reasons.
+Another reason your email might reach my spam folder is if your email lacks context, I will not reply to single line emails such as "I have a business proposition".
