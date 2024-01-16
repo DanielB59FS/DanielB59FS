@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Software, Gaming, cryptography, and more.
 - 🌱 I’m a graduate B.Sc. Game Developer of Full Sail University, Florida United States.
 - 🌱 I’m Also a graduate B.Sc. Software Engineer of Shenkar College of Engineering and Design, Ramat Gan Israel, with a Cyber major.
-- 💞️ I’m looking for remote work in the Game development industry, and to collaborate on any interesting projects relevant to my expertise.
+- 💞️ I’m looking for work in the Game development industry, and to collaborate on any interesting projects relevant to my expertise.
 - :atom: Access to private repositories will be given per request.
 - 📫 Contact email: bronco-seines-0z@icloud.com
 
